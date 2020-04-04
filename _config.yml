@@ -22,6 +22,7 @@ url: "https://yeshwanth16.github.io"
 navbar-links:
   #About Me: "NeuLearn"
   Projects: "https://yeshwanth16.github.io/"
+  CV: "https://yeshwanth16.github.io/CV.pdf"
   #Resources:
     #- Beautiful Jekyll: "http://limgh"
     #- Learn markdown: "http://www.markdowntutorial.com/"
