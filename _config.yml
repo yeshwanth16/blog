@@ -11,7 +11,7 @@ description: A virtual proof that I'm awesome
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://yeshu16.github.io"
+url: "https://yeshwanth16/yesh.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -20,7 +20,7 @@ url: "https://yeshu16.github.io"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "NeuLearn"
+  #About Me: "NeuLearn"
   #Resources:
    # - Beautiful Jekyll: "http://limgh"
    # - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Yeshwanth Reddy
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,10 +68,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "yeshwanthreddy789.com"
+  #facebook: deanattali
+  github: yeshwanth16
+  twitter: yeshuu16
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -80,7 +80,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  phone: 7550170155
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
