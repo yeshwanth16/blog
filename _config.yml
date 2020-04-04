@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My websi
+title: NeuLearn
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -20,10 +20,10 @@ url: "https://yeshu16.github.io"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://limghp.com/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  About Me: "NeuLearn"
+  #Resources:
+   # - Beautiful Jekyll: "http://limgh"
+   # - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://mimosi.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
