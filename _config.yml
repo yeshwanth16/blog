@@ -11,7 +11,7 @@ description: A virtual proof that I'm awesome
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://exampfg.com"
+#url: "https://exampfg.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -22,9 +22,9 @@ url: "https://exampfg.com"
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Beautiful Jekyll: "http://li.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "http://mim.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
